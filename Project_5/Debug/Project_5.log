@@ -1,0 +1,3 @@
+﻿  MultiThreadNoLock.cpp
+c:\school\cs 3060 (operating systems theory)\threads\project_5\packages\pthreads.2.9.1.4\build\native\include\pthread.h(320): error C2011: 'timespec': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(39): note: see declaration of 'timespec'
