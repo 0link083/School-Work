@@ -1,0 +1,1 @@
+// There were issue in type declarations upon moving it to a .cpp

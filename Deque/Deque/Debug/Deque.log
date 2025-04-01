@@ -1,0 +1,169 @@
+﻿  Deque.cpp
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(9): error C2143: syntax error: missing ';' before '*'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(74): note: see reference to class template instantiation 'Deque<T>' being compiled
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(9): error C2238: unexpected token(s) preceding ';'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(10): error C2143: syntax error: missing ';' before '*'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(71): error C2365: 'Deque<T>::size': redefinition; previous definition was 'data member'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<T>::size'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(72): error C2059: syntax error: 'return'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(72): error C2238: unexpected token(s) preceding ';'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(16): error C3861: 'last': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(16): error C3861: 'first': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(24): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(32): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(39): error C3861: 'Node': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(39): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(39): error C3861: 'first': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(40): error C3861: 'first': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(41): error C3861: 'first': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(42): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(43): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(48): error C3861: 'Node': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(48): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(48): error C3861: 'last': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(49): error C3861: 'last': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(50): error C3861: 'last': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(51): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(52): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(60): error C3861: 'Node': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(60): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(60): error C3861: 'first': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(62): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(63): error C3861: 'temp': identifier not found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(74): error C2143: syntax error: missing ';' before '}'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(88): error C2059: syntax error: '&'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(91): note: see reference to class template instantiation 'Node<T>' being compiled
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(88): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(9): error C2143: syntax error: missing ';' before '<'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(16): note: see reference to class template instantiation 'Deque<int>' being compiled
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(71): error C2207: 'Deque<T>::size': a member of a class template cannot acquire a function type
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(71): error C2365: 'Deque<int>::size': redefinition; previous definition was 'data member'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<int>::size'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(17): error C2248: 'Deque<int>::size': cannot access private member declared in class 'Deque<int>'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<int>::size'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(16): note: see declaration of 'Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(17): error C2064: term does not evaluate to a function taking 0 arguments
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(23): error C2248: 'Deque<int>::size': cannot access private member declared in class 'Deque<int>'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<int>::size'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(16): note: see declaration of 'Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(23): error C2064: term does not evaluate to a function taking 0 arguments
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2672: 'begin': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): note: With the following template arguments:
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): note: '_Container=Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Deque<int>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(62): note: see declaration of 'std::begin'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2672: 'end': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): note: With the following template arguments:
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): note: '_Container=Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Deque<int>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(69): note: see declaration of 'std::end'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2672: 'std::equal': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,const _InIt2)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3275): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,const _InIt2,_Pr)': expects 5 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3253): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2780: 'bool std::equal(const _InIt1,const _InIt1,_RightTy (&)[_RightSize])': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3173): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3164): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2780: 'bool std::equal(const _InIt1,const _InIt1,_RightTy (&)[_RightSize],_Pr)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3134): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(27): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,_Pr)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3118): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(34): error C2248: 'Deque<int>::size': cannot access private member declared in class 'Deque<int>'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<int>::size'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(16): note: see declaration of 'Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(34): error C2064: term does not evaluate to a function taking 0 arguments
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2672: 'begin': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): note: With the following template arguments:
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): note: '_Container=Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Deque<int>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(62): note: see declaration of 'std::begin'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2672: 'end': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): note: With the following template arguments:
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): note: '_Container=Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Deque<int>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(69): note: see declaration of 'std::end'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2672: 'std::equal': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,const _InIt2)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3275): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,const _InIt2,_Pr)': expects 5 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3253): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2780: 'bool std::equal(const _InIt1,const _InIt1,_RightTy (&)[_RightSize])': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3173): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3164): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2780: 'bool std::equal(const _InIt1,const _InIt1,_RightTy (&)[_RightSize],_Pr)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3134): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(35): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,_Pr)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3118): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(45): error C2248: 'Deque<int>::size': cannot access private member declared in class 'Deque<int>'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<int>::size'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(16): note: see declaration of 'Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(45): error C2064: term does not evaluate to a function taking 0 arguments
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(55): error C2248: 'Deque<int>::size': cannot access private member declared in class 'Deque<int>'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<int>::size'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(16): note: see declaration of 'Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(55): error C2064: term does not evaluate to a function taking 0 arguments
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): error C2672: 'begin': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): note: With the following template arguments:
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): note: '_Container=Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Deque<int>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(62): note: see declaration of 'std::begin'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): error C2672: 'end': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): note: With the following template arguments:
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): note: '_Container=Deque<int>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(71): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Deque<int>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(69): note: see declaration of 'std::end'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(71): error C2365: 'Deque<std::string>::size': redefinition; previous definition was 'data member'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<std::string>::size'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(76): error C2664: 'void Deque<std::string>::push_front(int)': cannot convert argument 1 from 'std::string' to 'int'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(76): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(77): error C2664: 'void Deque<std::string>::push_back(int)': cannot convert argument 1 from 'std::string' to 'int'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(77): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(80): error C2248: 'Deque<std::string>::size': cannot access private member declared in class 'Deque<std::string>'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<std::string>::size'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(74): note: see declaration of 'Deque<std::string>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(80): error C2064: term does not evaluate to a function taking 0 arguments
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2672: 'begin': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): note: With the following template arguments:
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): note: '_Container=Deque<std::string>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Deque<std::string>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(62): note: see declaration of 'std::begin'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2672: 'end': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): note: With the following template arguments:
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): note: '_Container=Deque<std::string>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Deque<std::string>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(69): note: see declaration of 'std::end'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2672: 'equal': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,const _InIt2)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3275): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,const _InIt2,_Pr)': expects 5 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3253): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2780: 'bool std::equal(const _InIt1,const _InIt1,_RightTy (&)[_RightSize])': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3173): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3164): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2780: 'bool std::equal(const _InIt1,const _InIt1,_RightTy (&)[_RightSize],_Pr)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3134): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(85): error C2780: 'bool std::equal(const _InIt1,const _InIt1,const _InIt2,_Pr)': expects 4 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3118): note: see declaration of 'std::equal'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(92): error C2248: 'Deque<std::string>::size': cannot access private member declared in class 'Deque<std::string>'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.h(8): note: see declaration of 'Deque<std::string>::size'
+  c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(74): note: see declaration of 'Deque<std::string>'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(92): error C2064: term does not evaluate to a function taking 0 arguments
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(93): error C2672: 'begin': no matching overloaded function found
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(93): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+c:\users\michael\source\repos\cs 3370 (c++ software development)\deque\deque\deque.cpp(93): fatal error C1003: error count exceeds 100; stopping compilation
